@@ -2,7 +2,7 @@
 // ================= CONFIGURATION ================= //
 $VIDEO_URL = "https://cworld.fun/Stalker/video.mp4"; // Your 12-sec video
 $TELEGRAM_URL = "https://t.me/IPTVM3Y";             // Telegram redirect
-$M3U_URL = "https://haa.ovh/tv.m3u";                // Your M3U playlist
+$M3U_URL = "https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/sliv.m3u";                // Your M3U playlist
 
 // ============= ULTIMATE IPTV DETECTION ============ //
 function is_iptv_request() {
